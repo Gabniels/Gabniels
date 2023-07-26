@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <br />
   <br />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabniels&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabniels&layout=compact)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabniels&layout=donut-vertical)]
   <br />
   <br />
