@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  Hey 👋, This is Danil Uzairi
   <br />
   <br />
   
