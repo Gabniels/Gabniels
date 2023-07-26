@@ -1,4 +1,4 @@
-### Hey 👋, This is Danil Uzairi
+### 
 
 <!--
 **Gabniels/Gabniels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<!--   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /> -->
+  Hey 👋, This is Danil Uzairi
   <br />
   <br />
   
