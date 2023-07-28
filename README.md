@@ -31,10 +31,3 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabniels&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div align="center">
-  <br />
-  <br />
-  
-  <br />
-  <br />
-</div>
