@@ -27,8 +27,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br/>
-     <br />
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabniels&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-   <br />
-   <br />
+</div>
+
+<div align="center">
+  <br />
+  <br />
+  
+  <br />
+  <br />
 </div>
