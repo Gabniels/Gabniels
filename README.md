@@ -34,14 +34,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabniels&show_icons=true&locale=en" alt="gabniels" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabniels&" alt="gabniels" /></p>
-
-
-
-
-<div align="center">
-  <br />
-  <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabniels&layout=donut-vertical)]
-  <br />
-  <br />
-
